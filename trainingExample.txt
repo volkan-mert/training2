@@ -14,3 +14,4 @@ double zero
 double\ zero
 hundred
 thousand
+million
