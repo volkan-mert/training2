@@ -12,3 +12,5 @@ doublezero
 doublezero
 double zero
 double\ zero
+hundred
+thousand
